@@ -1,18 +1,18 @@
 
-# To-Do List Application
+# Simple Calculator Application
 
-This is a simple command-line To-Do List application built using Python.
+This is a simple Python-based calculator supporting basic arithmetic operations.
 
 ## Features
-- Add new tasks
-- View existing tasks
-- Mark tasks as completed
-- Delete tasks
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-## Usage
+## How to Run
 
 ```bash
-python todo.py
+python calculator.py
 ```
 
-Enjoy managing your tasks!
+Enjoy calculating!
