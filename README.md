@@ -1,18 +1,19 @@
 
-# Simple Calculator Application
+# Password Generator
 
-This is a simple Python-based calculator supporting basic arithmetic operations.
+This is a simple Python-based password generator.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Generates strong and random passwords
+- Ensures use of lowercase, uppercase, digits, and symbols
+- User can choose password length
 
-## How to Run
+## Usage
+
+Run the script and enter the desired password length:
 
 ```bash
-python calculator.py
+python password_generator.py
 ```
 
-Enjoy calculating!
+A strong password will be generated and displayed on the screen.
